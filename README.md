@@ -1,3 +1,8 @@
+
+See here for a nice tutorial containing the instructions used to set up this project:
+https://medium.com/@leonardobrunolima/react-tips-testing-react-component-with-jest-enzyme-basics-38a15d5dd72a
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
